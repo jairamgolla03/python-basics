@@ -1,0 +1,13 @@
+A function is a reusable block of code design to perform a specific task.it can take input (parameters) and process it.
+
+we can create function by using the word def followed by the function name
+
+def greet(name)
+print(f" hello from function {name}")
+
+two types of functions are there:
+they are
+built in functions
+user defined functions
+
+print(dir(str))

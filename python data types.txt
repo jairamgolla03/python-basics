@@ -1,0 +1,22 @@
+1.int:
+ - behaviour : fixed
+-order: ordered
+-homogeneity: homogeneous
+-default value:0
+
+2.tuple:
+-behaviour:
+-order: 
+-
+
+3.set:
+
+4.for loop:
+used to iterate over tuple, dictionary ,set, or string)
+
+5.while loop:
+used to repeat a condition is true
+
+6.if condition
+allows you to condition is true
+

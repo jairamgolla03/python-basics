@@ -1,0 +1,37 @@
+Machine learning is the subset of computer science that gives computer the ability to learn without being explicitly programmed.
+
+
+data engineering is deals with the data analysis.(wed app database server) data ware(structured) and datalink(structured and un)
+
+
+
+data science allows to find the pattern from existing data to predict from the future.
+
+
+LIBRARY: It is the collection of pre written code that developers can use to perform common tasks such as mathematical operations.
+
+****Scikit learn popular open source machine learning in python that provide simple and efficient tools for data analysis and modeling.
+
+tools:
+classification:(decision trees, support vector machine)
+regression:(linear regression) 
+clustering:(k-means, DBSCAN)
+dimensionality reduction:(pca)
+model selection and evaluation(cross-validation)*****
+
+project: voice activated virtual assistant with ml
+
+algorithm: it is to predict the future value 
+
+TYPES:
+supervised
+unsupervised
+RL
+
+Basics of python:
+
+int
+behaviour
+
+functions: user defined and builtin
+

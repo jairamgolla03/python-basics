@@ -1,0 +1,9 @@
+pos tag subject object relation parts of speech
+what are python variable naming conventions?
+what happens when you assign a value to a variable that has the same name as built in functions?
+can variables in python hold different types of values at different times? show an example?
+what is the difference between local and global variables?
+huge data to store multi dimensional space
+vectordb weight mechanism eg:dog
+list tuple strings and dictonary in python
+list can store heterogenous information
